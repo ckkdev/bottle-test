@@ -15,4 +15,4 @@ To run this application, you'll need to have [Python](https://www.python.org/dow
 
 ## License
 
-This application is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you like.
+This application is licensed under the [Apache](LICENSE). Feel free to use, modify, and distribute it as you like.
